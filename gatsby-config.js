@@ -4,4 +4,5 @@ module.exports = {
     title: "Docx Upload",
   },
   plugins: [],
+
 };
